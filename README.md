@@ -6,7 +6,7 @@ A simple web-based temperature converter that allows users to convert temperatur
 
 This project provides a basic web application for converting temperatures from one unit to another. It is implemented using HTML, CSS, and JavaScript.
 
-![Temperature Converter Screenshot](screenshot.png)
+![Temperature Converter Screenshot](webTempConverter.png)
 
 ## Features
 
